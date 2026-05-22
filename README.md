@@ -1,4 +1,4 @@
-# banking-account-program
+# Banking-account-program
 A Python OOP project demonstrating static method , class method and magic method.
 ## Features
 - Create account manually
